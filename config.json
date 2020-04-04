@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Francesca Brotto"
+  },
+  "text": {
+    "more": "nffgchccnbcnbcnbcnbvc",
+    "intro": "CDO relationships and functions related to other Business Units in an organization",
+    "title": "Network Design Integration Methods"
+  },
+  "legend": {
+    "edgeLabel": "Connections",
+    "colorLabel": "CDO \u0026 C-Levels",
+    "nodeLabel": "Functions"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.9,
+      "minEdgeSize": 0.1,
+      "minNodeSize": 10,
+      "maxNodeSize": 100
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
