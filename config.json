@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "CDO \u0026 C-Levels",
+    "colorLabel": "CDO \u0026 other C-Levels",
     "nodeLabel": "Functions"
   },
   "features": {
