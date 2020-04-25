@@ -8,7 +8,7 @@
     "text": "Francesca Brotto"
   },
   "text": {
-    "more": "The Design Integration Methods’ Network is an interactive network that visualize the functions and the responsibilities of the identified C-Levels.<br> Every C-Level is represented by a pole, through a network of interconnections which connects the business units of the organization, with a specific focus on the Chief Design Officer.<br> The size of each C-Level pole is directly proportional to the number of connected functions, whose size is determined by the number of C-Levels responsible for that function.",
+    "more": "The Design Integration Methods’ Network is an interactive network that visualizes the functions and the responsibilities of the identified C-Levels.<br> Every C-Level is represented by a pole, through a network of interconnections which connects the business units of the organization, with a specific focus on the Chief Design Officer.<br> The size of each C-Level pole is directly proportional to the number of connected functions, whose size is determined by the number of C-Levels responsible for that function.",
     "intro": "This tool shows the integration of the design function and the responsabilities of the Chief Design Officer amongst other business units within the organization.",
     "title": "Design Integration Methods' Network"
   },
